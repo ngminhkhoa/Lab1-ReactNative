@@ -1,2 +1,2 @@
 # Lab1-ReactNative
-Maybe it will not working !
+Lab1 for Mobile Class at EIU
